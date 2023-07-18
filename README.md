@@ -21,8 +21,7 @@ python main.py
 ```
 ## Demo
 
-https://user-images.githubusercontent.com/38479934/229307725-9af7df49-77f9-4e12-99b7-5287cf9de5e3.mp4
-
+https://github.com/timopb/yt-views/assets/3785547/4b00686a-2cb3-4aca-a73e-647708906a65
 
 ## Relevant URLs:
 * [Google Cloud Console](https://console.cloud.google.com/)
