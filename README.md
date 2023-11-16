@@ -13,7 +13,7 @@ pip install -r requirements.txt
 2. Follow instructions on the [Google Workspace Python quickstart guide](https://developers.google.com/docs/api/quickstart/python) to ensure API access. Download your **credentials.json** file and place it in the root folder of the project.
 3. Head to [Google Docs Spreadsheets](https://docs.google.com/spreadsheets/) and create your own sheet or clone the [sample sheet](https://docs.google.com/spreadsheets/d/1ypg-aT4fVPMarFrU4SlvafBXVT6knGwxBBVcxDlJQ2U).
 4. Extract the sheet ID from your Sheet URL. The sheet ID is the bold part of the following example: docs.google.com/spreadsheets/d/**1ypg-aT4fVPMarFrU4SlvafBXVT6knGwxBBVcxDlJQ2U**/edit#gid=0
-5. Apply the ID to the [appropriate line](https://github.com/ThatH4tGuy/YTViews/blob/927d1d420be0cfbf03f51d6d3815c5824f986f3e/main.py#L14) in main.py
+5. Apply the ID to the [appropriate line](https://github.com/timopb/yt-views/blob/ec4d29a819aad0a5dfbe178c13adf2635a56937a/main.py#L14C24-L14C63) in main.py
 
 ## Running the script
 ```sh
